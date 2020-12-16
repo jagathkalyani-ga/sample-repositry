@@ -1,1 +1,1 @@
-# sample-repositry
+# sample-repositry-sample
